@@ -26,6 +26,8 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Tamil&q=800
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="420",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png",Jaya Max
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Jaya_Max&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
 #EXTINF:-1 tvg-id="569",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",D Tamil
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
