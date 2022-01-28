@@ -22,7 +22,7 @@ https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9023.m3u8
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/zeetamil.m3u8
 #EXTINF:-1 tvg-id="628",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="429",group-title="Sneh Jio Entertainment",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
+#EXTINF:-1 tvg-id="429",group-title="Tamil;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="420",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png",Jaya Max
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Jaya_Max&q=800&e=junk.m3u8
