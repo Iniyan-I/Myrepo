@@ -2,13 +2,13 @@
 
 #EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Tamil;HD",Sun TV HD
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/14020.m3u8
-#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil;HD",Sun Music HD
+#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil;HD;Music",Sun Music HD
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9013.m3u8
 #EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil;HD",KTV HD
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/26566.m3u8
 #EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Tamil",Sun TV
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9016.m3u8
-#EXTINF:-1 tvg-id="9025" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="Tamil",Sun Music
+#EXTINF:-1 tvg-id="9025" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="Tamil;Music",Sun Music
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9025.m3u8
 #EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="Tamil",KTV
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/32138.m3u8
@@ -22,6 +22,13 @@ https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9023.m3u8
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/zeetamil.m3u8
 #EXTINF:-1 tvg-id="628",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Tamil&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil",Kalaignar TV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
 #EXTINF:-1 tvg-id="429",group-title="Tamil;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="420",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png",Jaya Max
