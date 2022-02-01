@@ -90,4 +90,5 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Travel_XP_HD&q=
 #EXTINF:-1 tvg-id="541",group-title="English",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",Discovery Turbo
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="English;HD",IN | Fox Life FHD
+http://sonyiptv.net:8080/113232/113232/199287
