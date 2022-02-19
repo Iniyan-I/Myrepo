@@ -1,94 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Tamil;HD",Sun TV HD
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/14020.m3u8
-#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil;HD;Music",Sun Music HD
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9013.m3u8
-#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil;HD",KTV HD
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/26566.m3u8
-#EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Tamil",Sun TV
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9016.m3u8
-#EXTINF:-1 tvg-id="9025" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="Tamil;Music",Sun Music
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9025.m3u8
-#EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="Tamil",KTV
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/32138.m3u8
-#EXTINF:-1 tvg-id="26569" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="Tamil",Sun Life
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/26569.m3u8
-#EXTINF:-1 tvg-id="26567" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="Tamil;Kids",Chutti TV
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/26567.m3u8
-#EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Tamil;Music",Adithya TV
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9023.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR VIJAY HD" tvg-logo="" group-title="Tamil;HD",IN: STAR VIJAY HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1717
+
+
 #EXTINF:-1 group-title="Tamil;Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil;Music",Siripoli
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(01)/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil",Kalaignar TV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil",Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil",MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 tvg-id="429",group-title="Tamil;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 group-title="Tamil;HD",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png",Zee Tamil HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/zeetamil.m3u8
-#EXTINF:-1 tvg-id="628",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Tamil&q=800&e=junk.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil;Music",7sMusic
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil;Music",MK Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-
-#EXTINF:-1 tvg-id="569",group-title="Tamil",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",D Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="579",group-title="Tamil;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",History TV18 HD Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_18_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="853",group-title="Tamil;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png",Sony BBC Earth HD Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_BBC_Earth_HD_Tamil&q=800&e=junk.m3u8
-
-
-#EXTINF:-1 tvg-id="546",group-title="Kids",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",Nick Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="542",group-title="Kids",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",Pogo Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="1079",group-title="Kids",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="817",group-title="Kids",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",Cartoon Network Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="290",group-title="Kids",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png",sonic Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=sonic_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="550",group-title="Kids",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",Discovery Kids Tamil
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="38926" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="Tamil",Sun News
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/38926.m3u8
-
-
-#EXTINF:-1 tvg-id="463",group-title="English;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_HD_World&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="821",group-title="English;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="146",group-title="English;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",History TV18 HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="479",group-title="English;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=TLC_HD_World&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="561",group-title="English",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Food_Food&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="560",group-title="English",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",GOOD TiMES
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=NDTV_Good_Times&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="762",group-title="English;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="286",group-title="English;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="164",group-title="English;HD",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="541",group-title="English",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",Discovery Turbo
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="English;HD",IN | Fox Life FHD
 http://sonyiptv.net:8080/113232/113232/199287
