@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,IN: Star Vijay
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",Star Vijay
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/157500
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",3 Tamil TV
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/60420
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",Aus Tamil TV
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/286792
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",Isai Aruvi
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/193205
 
 
 #EXTINF:-1 group-title="Tamil;Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six
