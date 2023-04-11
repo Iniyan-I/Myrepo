@@ -6,26 +6,9 @@ http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/157500
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/60420
 #EXTINF:-1 group-title="Tamil" tvg-logo="",Aus Tamil TV
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/286792
-#EXTINF:-1 group-title="Tamil:Musi" tvg-logo="",Isai Aruvi
+#EXTINF:-1 group-title="Tamil" tvg-logo="",Isai Aruvi
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/193205
 
-
-#EXTINF:-1 group-title="Tamil;Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019",MK Six
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil;Music",Siripoli
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil",Kalaignar TV
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil",Puthuyugam TV
-http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil",MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil;Music",Isai Aruvi
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil;Music",7sMusic
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil;Music",MK Tunes
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="English;HD",IN | Fox Life FHD
 http://sonyiptv.net:8080/113232/113232/199287
