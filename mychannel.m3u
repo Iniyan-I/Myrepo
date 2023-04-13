@@ -10,5 +10,8 @@ http://iptvtree.net:8080/Vladisergeevic/2f71144da3/286792
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/193205
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="English;HD",IN | Fox Life FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="HD",IN | Fox Life FHD
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/76866
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Tamil",UK: Sky Sports F1
+http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/265
