@@ -1,17 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png",Star Vijay
+#EXTINF:-1 group-title="My" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png",Star Vijay
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/157500
-#EXTINF:-1 group-title="Tamil" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",3 Tamil TV
+#EXTINF:-1 group-title="MY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",3 Tamil TV
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/60420
-#EXTINF:-1 group-title="Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/66f6fa66d98918f56840b2c27e438d7b.png",Aus Tamil TV
+#EXTINF:-1 group-title="MY" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/66f6fa66d98918f56840b2c27e438d7b.png",Aus Tamil TV
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/286792
-#EXTINF:-1 group-title="Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f672661915451798c17eafee24228bd6.png",Isai Aruvi
+#EXTINF:-1 group-title="MY" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f672661915451798c17eafee24228bd6.png",Isai Aruvi
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/193205
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="HD",IN | Fox Life FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="MY",IN | Fox Life FHD
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/76866
 
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Tamil",UK: Sky Sports F1
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="MY",UK: Sky Sports F1
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/265
