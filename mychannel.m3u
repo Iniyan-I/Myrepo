@@ -12,11 +12,12 @@ http://iptvtree.net:8080/Vladisergeevic/2f71144da3/193205
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/286968
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d1e39e20ed670255f49ebe13020a651e.png" group-title="MY",Discovery Tamil
-http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/295292
-
 #EXTINF:-1 tvg-id="" tvg-name="IN | Fox Life FHD" tvg-logo="http://sonyiptv.net:8080/images/26fdc44494374bb2f3c236a3e66e2af5.png" group-title="MY",US | Fox Life
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/76866
 
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="MY",UK: Sky Sports F1
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/265
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="UK: RACING TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bfd35bd3d4c2f735e85a6ca1ad12ab5.png" group-title="MY",UK: RACING TV
+http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/731
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aa56e010e1692d81998e1d89d270aa2.png" group-title="MY",US: WWE
+http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/2373
