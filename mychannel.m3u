@@ -1,24 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY WORLD HD" tvg-logo="" group-title="AS TAMIL", TAMIL: DISCOVERY WORLD HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100113
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FOX LIFE HD" tvg-logo="" group-title="AS TAMIL", TAMIL: FOX LIFE HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100115
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: HISTORY TV18 HD" tvg-logo="" group-title="AS TAMIL", TAMIL: HISTORY TV18 HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100116
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: NATIONAL GEOGRAPHIC HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100136
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NAT GEO WILD HD" tvg-logo="" group-title="AS TAMIL", TAMIL: NAT GEO WILD HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100135
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SONY BBC EARTH HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SONY BBC EARTH HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100151
 
-#EXTINF:-1 group-title="MY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png",Star Vijay
-http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/157500
-#EXTINF:-1 group-title="MY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",3 Tamil TV
-http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/60420
-#EXTINF:-1 group-title="MY" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/66f6fa66d98918f56840b2c27e438d7b.png",Aus Tamil TV
-http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw//286792
-#EXTINF:-1 group-title="MY" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f672661915451798c17eafee24228bd6.png",Isai Aruvi
-http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/193205
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: STAR VIJAY HD" tvg-logo="" group-title="AS TAMIL", TAMIL: STAR VIJAY HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100153
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN TV HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100157
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN MUSIC HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100155
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VIJAY SUPER HD" tvg-logo="" group-title="AS TAMIL", TAMIL: VIJAY SUPER HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100167
+#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: KTV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: KTV HD
+http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100125
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: Fox Life" tvg-logo="http://ghostiptv.vip:80/images/1642ebdc29067bce041569e5a9c8be29.jpg" group-title="MY",IN: Fox Life
-http://sharkytv.com:2082/Louai12/Louai21/231170
-
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="MY",UK: Sky Sports F1
-http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/265
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aa56e010e1692d81998e1d89d270aa2.png" group-title="MY",US: WWE
-http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/2373
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== TAMIL =====" tvg-logo="" group-title="AS TAMIL",===== TAMIL =====
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100099
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="" group-title="AS TAMIL", TAMIL: ADHTIYA TV
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100100
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ANGEL TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: ANGEL TV HD
@@ -39,16 +43,6 @@ http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100110
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100111
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY KIDS TAMIL" tvg-logo="" group-title="AS TAMIL", TAMIL: DISCOVERY KIDS TAMIL
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100112
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY WORLD HD" tvg-logo="" group-title="AS TAMIL", TAMIL: DISCOVERY WORLD HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100113
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FLOWERS TV" tvg-logo="" group-title="AS TAMIL", TAMIL: FLOWERS TV
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100114
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FOX LIFE HD" tvg-logo="" group-title="AS TAMIL", TAMIL: FOX LIFE HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100115
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: HISTORY TV18 HD" tvg-logo="" group-title="AS TAMIL", TAMIL: HISTORY TV18 HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100116
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC BAKTHI" tvg-logo="" group-title="AS TAMIL", TAMIL: IBC BAKTHI
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100117
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC COMEDY" tvg-logo="" group-title="AS TAMIL", TAMIL: IBC COMEDY
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100118
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC TAMIL" tvg-logo="" group-title="AS TAMIL", TAMIL: IBC TAMIL
@@ -63,8 +57,6 @@ http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100122
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100123
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: JAYA TV HD
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100124
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: KTV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: KTV HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100125
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: LOTUS NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: LOTUS NEWS
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100126
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MADHA TV" tvg-logo="" group-title="AS TAMIL", TAMIL: MADHA TV
@@ -75,10 +67,6 @@ http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100129
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100132
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MOON TV" tvg-logo="" group-title="AS TAMIL", TAMIL: MOON TV
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100133
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NAT GEO WILD HD" tvg-logo="" group-title="AS TAMIL", TAMIL: NAT GEO WILD HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100135
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: NATIONAL GEOGRAPHIC HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100136
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NEWS 18 TAMIL NADU" tvg-logo="" group-title="AS TAMIL", TAMIL: NEWS 18 TAMIL NADU
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100137
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: POLIMER NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: POLIMER NEWS
@@ -103,20 +91,12 @@ http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100147
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100148
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SATHIYAM TV" tvg-logo="" group-title="AS TAMIL", TAMIL: SATHIYAM TV
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100150
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SONY BBC EARTH HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SONY BBC EARTH HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100151
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SONY YAY" tvg-logo="" group-title="AS TAMIL", TAMIL: SONY YAY
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100152
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: STAR VIJAY HD" tvg-logo="" group-title="AS TAMIL", TAMIL: STAR VIJAY HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100153
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN LIFE" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN LIFE
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100154
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN MUSIC HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100155
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN NEWS
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100156
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN TV HD" tvg-logo="" group-title="AS TAMIL", TAMIL: SUN TV HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100157
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TAMILAN TV" tvg-logo="" group-title="AS TAMIL", TAMIL: TAMILAN TV
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100158
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TATA SKY TAMIL CINEMA" tvg-logo="" group-title="AS TAMIL", TAMIL: TATA SKY TAMIL CINEMA
@@ -131,8 +111,6 @@ http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100162
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100163
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VASANTH TV" tvg-logo="" group-title="AS TAMIL", TAMIL: VASANTH TV
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100165
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VIJAY SUPER HD" tvg-logo="" group-title="AS TAMIL", TAMIL: VIJAY SUPER HD
-http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100167
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: WIN NEWS" tvg-logo="" group-title="AS TAMIL", TAMIL: WIN NEWS
 http://pandar.cc:25461/02024021384545/cce2444a2e57aaf8/100168
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE TAMIL HD" tvg-logo="" group-title="AS TAMIL", TAMIL: ZEE TAMIL HD
