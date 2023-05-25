@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK-HD: SKY SPORTS F1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png" group-title="EU UK",UK-HD: SKY SPORTS F1
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK-HD: SKY SPORTS F1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png" group-title="AS TAMIL",UK-HD: SKY SPORTS F1
 http://pandar.cc:25461/eQXL4ngTrx0Pmx3/7p0iTqyRhinffg2/102231
+#EXTINF:-1 tvg-ID="" tvg-name="|US| WWE NETWORK  HD" tvg-logo="http://vodkom.com:25461//Logo/USA.NBATV/NBATV.png" group-title="AS TAMIL",|US| WWE NETWORK  HD
+http://pandar.cc:25461/eQXL4ngTrx0Pmx3/7p0iTqyRhinffg2/159627
+
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY WORLD HD" tvg-logo="" group-title="AS TAMIL", TAMIL: DISCOVERY WORLD HD
 http://pandar.cc:25461/eQXL4ngTrx0Pmx3/7p0iTqyRhinffg2/100113
 #EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FOX LIFE HD" tvg-logo="" group-title="AS TAMIL", TAMIL: FOX LIFE HD
