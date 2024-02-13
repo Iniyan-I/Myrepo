@@ -6,14 +6,14 @@
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd?begin=20240209T060000&end=20240214T060000
 
 #EXTINF:-1 tvg-id="242" group-title="MYTV" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery English HD
-https://github.com/Iniyan-I/Myrepo/blob/f1cf574c8fb8d1278e85257b15358dc5e2207fc7/channels/discovery_hd_english.m3u8
+https://raw.githubusercontent.com/Iniyan-I/Myrepo/main/channels/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="567" group-title="MYTV" tvg-language="English" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet English
-https://github.com/Iniyan-I/Myrepo/blob/f1cf574c8fb8d1278e85257b15358dc5e2207fc7/channels/animal_planet_hd_english.m3u8
+https://raw.githubusercontent.com/Iniyan-I/Myrepo/main/channels/animal_planet_hd_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://te.legra.ph/file/cdc56626013f9d5b1c2ba.png" tvg-chno="11" group-title="MYTV",Food Network English
-https://github.com/Iniyan-I/Myrepo/blob/f1cf574c8fb8d1278e85257b15358dc5e2207fc7/channels/food_network_hd_english.m3u8
+https://raw.githubusercontent.com/Iniyan-I/Myrepo/main/channels/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-logo="https://te.legra.ph/file/6db24ed6ea9959c51d758.png" tvg-chno="9" group-title="MYTV",TRVL English HD
-https://github.com/Iniyan-I/Myrepo/blob/f1cf574c8fb8d1278e85257b15358dc5e2207fc7/channels/trvl_channel_hd_english.m3u8
+https://raw.githubusercontent.com/Iniyan-I/Myrepo/main/channels/trvl_channel_hd_english.m3u8
 
 #EXTINF:-1 tvg-id="ts15" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="MYTV",SONY HD 
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8 
