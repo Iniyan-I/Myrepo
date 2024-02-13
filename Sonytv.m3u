@@ -1,136 +1,53 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
-#EXTINF:-1 group-title="SONY",SET HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony SAB HD
+#EXTINF:-1 tvg-id="ts15" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="MySonyLIV",SONY HD 
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8 
+#EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="MySonyLIV",SONY SAB HD 
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony Marathi
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony AATH
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 group-title="SONY" ,Sony MAX
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 group-title="SONY" ,Sony MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony PIX HD
+#EXTINF:-1 tvg-id="ts554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="MySonyLIV",SONY PAL 
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8 
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="MySonyLIV",SONY PIX HD 
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF: -1 group-title="SONY",Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF: -1 group-title="SONY" ,Sony TEN 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 group-title="SONY" ,Sony TEN 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 group-title="SONY" ,Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF: -1 group-title="SONY",Sony TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 group-title="SONY",SET HD
-https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony SAB HD
-https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony PAL
-https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony YAY
-https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony AATH
-https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony Marathi
-https://dai.google.com/ssai/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony BBC Earth HD
-https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony PIX HD
-https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony WAH
-https://dai.google.com/ssai/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony MAX
-https://dai.google.com/ssai/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony MAX HD
-https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony MAX2
-https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 1
-https://dai.google.com/ssai/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 2
-https://dai.google.com/ssai/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 3
-https://dai.google.com/ssai/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 4
-https://dai.google.com/ssai/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 5
-https://dai.google.com/ssai/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 1 HD
-https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 2 HD
-https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 3 HD
-https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 4 HD
-https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 5 HD
-https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony Kal
-https://spt-sonykal-1 group-title="SONY"-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="SONY",SET HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony SAB HD
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony PAL
-https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony YAY
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony AATH
-https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony Marathi
-https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony BBC Earth HD
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony PIX HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony WAH
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony MAX
-https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony MAX HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony MAX2
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 1
-https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 2
-https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 3
-https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 4
-https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 5
-https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 1 HD
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 2 HD
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 3 HD
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 4 HD
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 5 HD
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="ts132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="MySonyLIV",SONY MAX 
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8 
+#EXTINF:-1 tvg-id="ts80" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="MySonyLIV",SONY MAX HD 
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-id="ts120" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="MySonyLIV",SONY MAX2 
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8 
+#EXTINF:-1 tvg-id="ts56" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="MySonyLIV",SONY WAH 
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8 
+#EXTINF:-1 tvg-id="ts81" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="MySonyLIV",SONY TEN 1 HD 
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
+#EXTINF:-1 tvg-id="ts150" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="MySonyLIV",SONY TEN 1 
+https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8 
+#EXTINF:-1 tvg-id="ts462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="MySonyLIV",SONY TEN 2 HD 
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
+#EXTINF:-1 tvg-id="ts170" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="MySonyLIV",SONY TEN 2 
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8 
+#EXTINF:-1 tvg-id="ts464" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="MySonyLIV",SONY TEN 3 HD 
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
+#EXTINF:-1 tvg-id="ts171" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="MySonyLIV",SONY TEN 3 
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8 
+#EXTINF:-1 tvg-id="ts1192" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="MySonyLIV",SONY TEN 4 HD
+ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
+#EXTINF:-1 tvg-id="ts914" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="MySonyLIV",SONY TEN 4
+ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8 
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="MySonyLIV",SONY TEN 5 HD
+ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="MySonyLIV",SONY TEN 5
+ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
+#EXTINF:-1 tvg-id="ts460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="MySonyLIV",SONY BBC EARTH HD
+ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8 
+#EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="MySonyLIV",SONY YAY 
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8 
+#EXTINF:-1 tvg-id="ts658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="MySonyLIV",SONY MARATHI
+ https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8 
+#EXTINF:-1 tvg-id="ts34" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="MySonyLIV",SONY AATH https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8 
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000371&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjkyMjk1MDk4NjMxIn0.eyJzdWIiOiIxMjMwOTQ1NTE5IiwiaXNlIjp0cnVlLCJqdGkiOiJiMjYzYTBjYy0yNGNlLTRlOTItYTdiNC03ODQ1ZDE2ZDgwYjYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzA3ODg5ODQzLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNzA3ODAzNDQzLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE1MjMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMzgifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMzUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfYW5kcm9pZCJ9.AqCfulW2TFqtJTCPWjlo9YsE7Pyl3SzUJql603zgsio|Content-Type=application%2Foctet-stream|R{SSM}| 
+#EXTINF:-1 tvg-id="ts367" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11429-j9jqu3y0-v1/imageContent-11429-j9jqu3y0-m1.png" group-title="TSneh Lifestyle",FOX Life HD 
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd?begin=20240209T060000&end=20240214T060000
+
