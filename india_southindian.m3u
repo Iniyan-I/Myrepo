@@ -1,521 +1,521 @@
 #EXTM3U
-#EXTINF:-1,& FLIX HD
+#EXTINF:-1 group-title="Tataplay",& FLIX HD
 http://103.169.98.53:8000/play/a07q
-#EXTINF:-1,& PICTURES HD
+#EXTINF:-1 group-title="Tataplay",& PICTURES HD
 http://103.169.98.53:8000/play/a087
-#EXTINF:-1,& PRIVE HD
+#EXTINF:-1 group-title="Tataplay",& PRIVE HD
 http://103.169.98.53:8000/play/a08d
-#EXTINF:-1,& TV HD
+#EXTINF:-1 group-title="Tataplay",& TV HD
 http://103.169.98.53:8000/play/a08p
-#EXTINF:-1,&TV SD
+#EXTINF:-1 group-title="Tataplay",&TV SD
 http://103.169.98.53:8000/play/a0sv
-#EXTINF:-1,24 NEWS HD
+#EXTINF:-1 group-title="Tataplay",24 NEWS HD
 http://103.169.98.53:8000/play/24NEWSHD
-#EXTINF:-1,92 NEWS HD
+#EXTINF:-1 group-title="Tataplay",92 NEWS HD
 http://103.169.98.53:8000/play/a0u6
-#EXTINF:-1,A PLUS
+#EXTINF:-1 group-title="Tataplay",A PLUS
 http://103.169.98.53:8000/play/a0un
-#EXTINF:-1,A SPORT HD
+#EXTINF:-1 group-title="Tataplay",A SPORT HD
 http://103.169.98.53:8000/play/a0u7
-#EXTINF:-1,A1 PAKISTAN
+#EXTINF:-1 group-title="Tataplay",A1 PAKISTAN
 http://103.169.98.53:8000/play/a0uo
-#EXTINF:-1,AAJ ENTERTAINMENT
+#EXTINF:-1 group-title="Tataplay",AAJ ENTERTAINMENT
 http://103.169.98.53:8000/play/a0vf
-#EXTINF:-1,AAJ NEWS (IN)
+#EXTINF:-1 group-title="Tataplay",AAJ NEWS (IN)
 http://103.169.98.53:8000/play/AAJNEWS
-#EXTINF:-1,AAN TV
+#EXTINF:-1 group-title="Tataplay",AAN TV
 http://103.169.98.53:8000/play/a0w3
-#EXTINF:-1,ABB TAKK NEWS
+#EXTINF:-1 group-title="Tataplay",ABB TAKK NEWS
 http://103.169.98.53:8000/play/AbbTakkNews
-#EXTINF:-1,AIK NEWS
+#EXTINF:-1 group-title="Tataplay",AIK NEWS
 http://103.169.98.53:8000/play/a0wi
-#EXTINF:-1,AJJ NEWS
+#EXTINF:-1 group-title="Tataplay",AJJ NEWS
 http://103.169.98.53:8000/play/AJJNEWS
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1 group-title="Tataplay",ANIMAL PLANET HD
 http://103.169.98.53:8000/play/a081
-#EXTINF:-1,APNA TV
+#EXTINF:-1 group-title="Tataplay",APNA TV
 http://103.169.98.53:8000/play/a0w6
-#EXTINF:-1,ARUJ-ENTERTAINMENT
+#EXTINF:-1 group-title="Tataplay",ARUJ-ENTERTAINMENT
 http://103.169.98.53:8000/play/a0w7
-#EXTINF:-1,ARY DIGITAL ASIA HD
+#EXTINF:-1 group-title="Tataplay",ARY DIGITAL ASIA HD
 http://103.169.98.53:8000/play/a0up
-#EXTINF:-1,ARY MUSIK
+#EXTINF:-1 group-title="Tataplay",ARY MUSIK
 http://103.169.98.53:8000/play/a0uq
-#EXTINF:-1,ARY NEWS ASIA
+#EXTINF:-1 group-title="Tataplay",ARY NEWS ASIA
 http://103.169.98.53:8000/play/a0ur
-#EXTINF:-1,ARY QTV
+#EXTINF:-1 group-title="Tataplay",ARY QTV
 http://103.169.98.53:8000/play/a0us
-#EXTINF:-1,ARY ZINDAGI
+#EXTINF:-1 group-title="Tataplay",ARY ZINDAGI
 http://103.169.98.53:8000/play/a0uy
-#EXTINF:-1,ASIANET HD
+#EXTINF:-1 group-title="Tataplay",ASIANET HD
 http://103.169.98.53:8000/play/a0tx
-#EXTINF:-1,ASIANET MOVIES HD
+#EXTINF:-1 group-title="Tataplay",ASIANET MOVIES HD
 http://103.169.98.53:8000/play/a0k8
-#EXTINF:-1,ATVHD
+#EXTINF:-1 group-title="Tataplay",ATVHD
 http://103.169.98.53:8000/play/a0ux
-#EXTINF:-1,BIG MAGIC - 10p
+#EXTINF:-1 group-title="Tataplay",BIG MAGIC - 10p
 http://103.169.98.53:8000/play/a0sp
-#EXTINF:-1,BINDASS
+#EXTINF:-1 group-title="Tataplay",BINDASS
 http://103.169.98.53:8000/play/a07u
-#EXTINF:-1,BOL-ENTERTAINMENT
+#EXTINF:-1 group-title="Tataplay",BOL-ENTERTAINMENT
 http://103.169.98.53:8000/play/a0w8
-#EXTINF:-1,BOL-NEWS
+#EXTINF:-1 group-title="Tataplay",BOL-NEWS
 http://103.169.98.53:8000/play/a0w9
-#EXTINF:-1,Balle Balle- Free
+#EXTINF:-1 group-title="Tataplay",Balle Balle- Free
 http://103.169.98.53:8000/play/a0om
-#EXTINF:-1,Bhakti Active- Rs 45
+#EXTINF:-1 group-title="Tataplay",Bhakti Active- Rs 45
 http://103.169.98.53:8000/play/a0rs
-#EXTINF:-1,CAPITAL TV PAKISTAN
+#EXTINF:-1 group-title="Tataplay",CAPITAL TV PAKISTAN
 http://103.169.98.53:8000/play/a0wj
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1 group-title="Tataplay",CARTOON NETWORK
 http://103.169.98.53:8000/play/a09b
-#EXTINF:-1,CHANNEL 5
+#EXTINF:-1 group-title="Tataplay",CHANNEL 5
 http://103.169.98.53:8000/play/a0vg
-#EXTINF:-1,CHANNEL FIVE
+#EXTINF:-1 group-title="Tataplay",CHANNEL FIVE
 http://103.169.98.53:8000/play/a0uw
-#EXTINF:-1,CITY 42
+#EXTINF:-1 group-title="Tataplay",CITY 42
 http://103.169.98.53:8000/play/a0wg
-#EXTINF:-1,CNBC Prime HD -Rs1
+#EXTINF:-1 group-title="Tataplay",CNBC Prime HD -Rs1
 http://103.169.98.53:8000/play/a0ok
-#EXTINF:-1,COLORS HD
+#EXTINF:-1 group-title="Tataplay",COLORS HD
 http://103.169.98.53:8000/play/a07p
-#EXTINF:-1,COLORS INFINITY HD
+#EXTINF:-1 group-title="Tataplay",COLORS INFINITY HD
 http://103.169.98.53:8000/play/a08b
-#EXTINF:-1,COLORS KANNADA HD
+#EXTINF:-1 group-title="Tataplay",COLORS KANNADA HD
 http://103.169.98.53:8000/play/a0k2
-#EXTINF:-1,COLORS RISHTEY
+#EXTINF:-1 group-title="Tataplay",COLORS RISHTEY
 http://103.169.98.53:8000/play/a07t
-#EXTINF:-1,Cine Active- Rs 27
+#EXTINF:-1 group-title="Tataplay",Cine Active- Rs 27
 http://103.169.98.53:8000/play/a0rv
-#EXTINF:-1,ColorsGujCinema-Rs1
+#EXTINF:-1 group-title="Tataplay",ColorsGujCinema-Rs1
 http://103.169.98.53:8000/play/a0qm
-#EXTINF:-1,Comedy Active- Rs 45
+#EXTINF:-1 group-title="Tataplay",Comedy Active- Rs 45
 http://103.169.98.53:8000/play/a0p6
-#EXTINF:-1,Cooking Active-Rs 45
+#EXTINF:-1 group-title="Tataplay",Cooking Active-Rs 45
 http://103.169.98.53:8000/play/a0qi
-#EXTINF:-1,DAWN NEWS
+#EXTINF:-1 group-title="Tataplay",DAWN NEWS
 http://103.169.98.53:8000/play/a0vh
-#EXTINF:-1,DD NATIONAL- Free
+#EXTINF:-1 group-title="Tataplay",DD NATIONAL- Free
 http://103.169.98.53:8000/play/a0t8
-#EXTINF:-1,DISCOVERY HD
+#EXTINF:-1 group-title="Tataplay",DISCOVERY HD
 http://103.169.98.53:8000/play/a099
-#EXTINF:-1,DISCOVERY INVESTIGATION SD
+#EXTINF:-1 group-title="Tataplay",DISCOVERY INVESTIGATION SD
 http://103.169.98.53:8000/play/a08z
-#EXTINF:-1,DISCOVERY KIDS SD
+#EXTINF:-1 group-title="Tataplay",DISCOVERY KIDS SD
 http://103.169.98.53:8000/play/a09k
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Tataplay",DISCOVERY SCIENCE
 http://103.169.98.53:8000/play/a08f
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1 group-title="Tataplay",DISCOVERY TURBO
 http://103.169.98.53:8000/play/a08g
-#EXTINF:-1,DISNEY INDIA SD
+#EXTINF:-1 group-title="Tataplay",DISNEY INDIA SD
 http://103.169.98.53:8000/play/a09d
-#EXTINF:-1,DISNEY JR. SD
+#EXTINF:-1 group-title="Tataplay",DISNEY JR. SD
 http://103.169.98.53:8000/play/a09f
-#EXTINF:-1,DUNYA NEWS HD
+#EXTINF:-1 group-title="Tataplay",DUNYA NEWS HD
 http://103.169.98.53:8000/play/DUNYANEWSHD
-#EXTINF:-1,Discovery- Rs 4
+#EXTINF:-1 group-title="Tataplay",Discovery- Rs 4
 http://103.169.98.53:8000/play/a0r4
-#EXTINF:-1,ETV Abhiruchi-Rs3
+#EXTINF:-1 group-title="Tataplay",ETV Abhiruchi-Rs3
 http://103.169.98.53:8000/play/a0q5
-#EXTINF:-1,ETV Cinema-Rs 13
+#EXTINF:-1 group-title="Tataplay",ETV Cinema-Rs 13
 http://103.169.98.53:8000/play/a0kg
-#EXTINF:-1,ETV HD - Rs 19
+#EXTINF:-1 group-title="Tataplay",ETV HD - Rs 19
 http://103.169.98.53:8000/play/a0k3
-#EXTINF:-1,ETV Telengana-Rs2
+#EXTINF:-1 group-title="Tataplay",ETV Telengana-Rs2
 http://103.169.98.53:8000/play/a0q8
-#EXTINF:-1,EUROSPORT HD
+#EXTINF:-1 group-title="Tataplay",EUROSPORT HD
 http://103.169.98.53:8000/play/a07s
-#EXTINF:-1,EXPRESS ENTERTAINMENT
+#EXTINF:-1 group-title="Tataplay",EXPRESS ENTERTAINMENT
 http://103.169.98.53:8000/play/a0vi
-#EXTINF:-1,EXPRESS NEWS
+#EXTINF:-1 group-title="Tataplay",EXPRESS NEWS
 http://103.169.98.53:8000/play/a0vj
-#EXTINF:-1,Evergreen Classics-Rs45
+#EXTINF:-1 group-title="Tataplay",Evergreen Classics-Rs45
 http://103.169.98.53:8000/play/a0tu
-#EXTINF:-1,FAST SPORTS HD
+#EXTINF:-1 group-title="Tataplay",FAST SPORTS HD
 http://103.169.98.53:8000/play/a0uc
-#EXTINF:-1,FILMAZIA-GAANE
+#EXTINF:-1 group-title="Tataplay",FILMAZIA-GAANE
 http://103.169.98.53:8000/play/a0w4
-#EXTINF:-1,FLOWERS 
+#EXTINF:-1 group-title="Tataplay",FLOWERS 
 http://103.169.98.53:8000/play/a0s6
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:-1 group-title="Tataplay",FOX LIFE HD
 http://103.169.98.53:8000/play/a08n
-#EXTINF:-1,Fitness Active- Rs 45
+#EXTINF:-1 group-title="Tataplay",Fitness Active- Rs 45
 http://103.169.98.53:8000/play/a0qf
-#EXTINF:-1,GEMINI LIFE -Rs 5
+#EXTINF:-1 group-title="Tataplay",GEMINI LIFE -Rs 5
 http://103.169.98.53:8000/play/a0kf
-#EXTINF:-1,GEMINI TV HD -Rs19
+#EXTINF:-1 group-title="Tataplay",GEMINI TV HD -Rs19
 http://103.169.98.53:8000/play/a0j9
-#EXTINF:-1,GEO ENTERTAINMENT HD
+#EXTINF:-1 group-title="Tataplay",GEO ENTERTAINMENT HD
 http://103.169.98.53:8000/play/a0ud
-#EXTINF:-1,GEO KAHANI
+#EXTINF:-1 group-title="Tataplay",GEO KAHANI
 http://103.169.98.53:8000/play/a0ue
-#EXTINF:-1,GEO NEWS
+#EXTINF:-1 group-title="Tataplay",GEO NEWS
 http://103.169.98.53:8000/play/a0uf
-#EXTINF:-1,GEO SUPER
+#EXTINF:-1 group-title="Tataplay",GEO SUPER
 http://103.169.98.53:8000/play/a0ug
-#EXTINF:-1,GEO TEZ
+#EXTINF:-1 group-title="Tataplay",GEO TEZ
 http://103.169.98.53:8000/play/a0uh
-#EXTINF:-1,GNN NEWS UHD
+#EXTINF:-1 group-title="Tataplay",GNN NEWS UHD
 http://103.169.98.53:8000/play/GNNNEWSUHD
-#EXTINF:-1,GREEN ENTERTAINMENT HD
+#EXTINF:-1 group-title="Tataplay",GREEN ENTERTAINMENT HD
 http://103.169.98.53:8000/play/a0u8
-#EXTINF:-1,GTV NEWS HD
+#EXTINF:-1 group-title="Tataplay",GTV NEWS HD
 http://103.169.98.53:8000/play/a0wc
-#EXTINF:-1,HADI TV
+#EXTINF:-1 group-title="Tataplay",HADI TV
 http://103.169.98.53:8000/play/a0vk
-#EXTINF:-1,HISTORY TV18 HD
+#EXTINF:-1 group-title="Tataplay",HISTORY TV18 HD
 http://103.169.98.53:8000/play/a083
-#EXTINF:-1,HUM MASALA TV
+#EXTINF:-1 group-title="Tataplay",HUM MASALA TV
 http://103.169.98.53:8000/play/a0vl
-#EXTINF:-1,HUM NEWS HD
+#EXTINF:-1 group-title="Tataplay",HUM NEWS HD
 http://103.169.98.53:8000/play/HUMNEWSHD
-#EXTINF:-1,HUM PASHTO 1
+#EXTINF:-1 group-title="Tataplay",HUM PASHTO 1
 http://103.169.98.53:8000/play/a0vn
-#EXTINF:-1,HUM SITARAY
+#EXTINF:-1 group-title="Tataplay",HUM SITARAY
 http://103.169.98.53:8000/play/a0vo
-#EXTINF:-1,HUM TV HD
+#EXTINF:-1 group-title="Tataplay",HUM TV HD
 http://103.169.98.53:8000/play/a0u9
-#EXTINF:-1,HUNGAMA TV
+#EXTINF:-1 group-title="Tataplay",HUNGAMA TV
 http://103.169.98.53:8000/play/a09c
-#EXTINF:-1,Hits Active- Rs 45
+#EXTINF:-1 group-title="Tataplay",Hits Active- Rs 45
 http://103.169.98.53:8000/play/a0r0
-#EXTINF:-1,Ibadat Active- Rs 45
+#EXTINF:-1 group-title="Tataplay",Ibadat Active- Rs 45
 http://103.169.98.53:8000/play/a0pb
-#EXTINF:-1,India Daily Live- Free
+#EXTINF:-1 group-title="Tataplay",India Daily Live- Free
 http://103.169.98.53:8000/play/a0sx
-#EXTINF:-1,JAYA MAX-Rs 2.52
+#EXTINF:-1 group-title="Tataplay",JAYA MAX-Rs 2.52
 http://103.169.98.53:8000/play/a0s4
-#EXTINF:-1,JAYA PLUS- Rs1.68
+#EXTINF:-1 group-title="Tataplay",JAYA PLUS- Rs1.68
 http://103.169.98.53:8000/play/a0sb
-#EXTINF:-1,Jalsha Movies-Rs15
+#EXTINF:-1 group-title="Tataplay",Jalsha Movies-Rs15
 http://103.169.98.53:8000/play/a0rz
-#EXTINF:-1,JalshaMoviesHD-Rs19
+#EXTINF:-1 group-title="Tataplay",JalshaMoviesHD-Rs19
 http://103.169.98.53:8000/play/a092
-#EXTINF:-1,KAY2 TV
+#EXTINF:-1 group-title="Tataplay",KAY2 TV
 http://103.169.98.53:8000/play/a0wf
-#EXTINF:-1,KHYBER NEWS HD
+#EXTINF:-1 group-title="Tataplay",KHYBER NEWS HD
 http://103.169.98.53:8000/play/a0we
-#EXTINF:-1,KTV HD
+#EXTINF:-1 group-title="Tataplay",KTV HD
 http://103.169.98.53:8000/play/a0j7
-#EXTINF:-1,KUWAIT TV
+#EXTINF:-1 group-title="Tataplay",KUWAIT TV
 http://103.169.98.53:8000/play/a0uv
-#EXTINF:-1,LAHORE NEWS HD
+#EXTINF:-1 group-title="Tataplay",LAHORE NEWS HD
 http://103.169.98.53:8000/play/LAHORENEWSHD
-#EXTINF:-1,LAHORE RANG HD
+#EXTINF:-1 group-title="Tataplay",LAHORE RANG HD
 http://103.169.98.53:8000/play/a0wd
-#EXTINF:-1,MADANI TV
+#EXTINF:-1 group-title="Tataplay",MADANI TV
 http://103.169.98.53:8000/play/a0uu
-#EXTINF:-1,METRO 1
+#EXTINF:-1 group-title="Tataplay",METRO 1
 http://103.169.98.53:8000/play/a0ut
-#EXTINF:-1,METRO NEWS
+#EXTINF:-1 group-title="Tataplay",METRO NEWS
 http://103.169.98.53:8000/play/a0uz
-#EXTINF:-1,MH ONE - Free
+#EXTINF:-1 group-title="Tataplay",MH ONE - Free
 http://103.169.98.53:8000/play/a0so
-#EXTINF:-1,MINI MAX (PAKISTAN)
+#EXTINF:-1 group-title="Tataplay",MINI MAX (PAKISTAN)
 http://103.169.98.53:8000/play/a0v0
-#EXTINF:-1,MN+ HD
+#EXTINF:-1 group-title="Tataplay",MN+ HD
 http://103.169.98.53:8000/play/a095
-#EXTINF:-1,MTV Beats- 10p
+#EXTINF:-1 group-title="Tataplay",MTV Beats- 10p
 http://103.169.98.53:8000/play/a0qk
-#EXTINF:-1,MTV SD
+#EXTINF:-1 group-title="Tataplay",MTV SD
 http://103.169.98.53:8000/play/a09i
-#EXTINF:-1,Mazhavil ManHD-Free
+#EXTINF:-1 group-title="Tataplay",Mazhavil ManHD-Free
 http://103.169.98.53:8000/play/a0ti
-#EXTINF:-1,Movies Active- Rs 61
+#EXTINF:-1 group-title="Tataplay",Movies Active- Rs 61
 http://103.169.98.53:8000/play/a0rx
-#EXTINF:-1,NAAT
+#EXTINF:-1 group-title="Tataplay",NAAT
 http://103.169.98.53:8000/play/NAAT
-#EXTINF:-1,NAT GEO HD
+#EXTINF:-1 group-title="Tataplay",NAT GEO HD
 http://103.169.98.53:8000/play/a098
-#EXTINF:-1,NAT GEO WILD HD
+#EXTINF:-1 group-title="Tataplay",NAT GEO WILD HD
 http://103.169.98.53:8000/play/a08y
-#EXTINF:-1,NEO NEWS HD
+#EXTINF:-1 group-title="Tataplay",NEO NEWS HD
 http://103.169.98.53:8000/play/NEONEWSHD
-#EXTINF:-1,NEWS 1
+#EXTINF:-1 group-title="Tataplay",NEWS 1
 http://103.169.98.53:8000/play/NEWS1
-#EXTINF:-1,NEWS ONE
+#EXTINF:-1 group-title="Tataplay",NEWS ONE
 http://103.169.98.53:8000/play/a0vq
-#EXTINF:-1,NHK WORLD JPN
+#EXTINF:-1 group-title="Tataplay",NHK WORLD JPN
 http://103.169.98.53:8000/play/a0ui
-#EXTINF:-1,NICK HD+
+#EXTINF:-1 group-title="Tataplay",NICK HD+
 http://103.169.98.53:8000/play/a0ad
-#EXTINF:-1,NICK Jr.
+#EXTINF:-1 group-title="Tataplay",NICK Jr.
 http://103.169.98.53:8000/play/a09j
-#EXTINF:-1,NICK SD
+#EXTINF:-1 group-title="Tataplay",NICK SD
 http://103.169.98.53:8000/play/a09e
-#EXTINF:-1,NOOR TV
+#EXTINF:-1 group-title="Tataplay",NOOR TV
 http://103.169.98.53:8000/play/a0v1
-#EXTINF:-1,PAIGHAM PASHTO
+#EXTINF:-1 group-title="Tataplay",PAIGHAM PASHTO
 http://103.169.98.53:8000/play/a0vr
-#EXTINF:-1,PAK_VOICE NEWS
+#EXTINF:-1 group-title="Tataplay",PAK_VOICE NEWS
 http://103.169.98.53:8000/play/a0vs
-#EXTINF:-1,PEACE TV HD ENGLISH
+#EXTINF:-1 group-title="Tataplay",PEACE TV HD ENGLISH
 http://103.169.98.53:8000/play/a0v2
-#EXTINF:-1,PEACE TV HD URDU
+#EXTINF:-1 group-title="Tataplay",PEACE TV HD URDU
 http://103.169.98.53:8000/play/a0v3
-#EXTINF:-1,PLAY TV
+#EXTINF:-1 group-title="Tataplay",PLAY TV
 http://103.169.98.53:8000/play/a0vt
-#EXTINF:-1,POGO SD
+#EXTINF:-1 group-title="Tataplay",POGO SD
 http://103.169.98.53:8000/play/a09h
-#EXTINF:-1,PTC NEWS - Free
+#EXTINF:-1 group-title="Tataplay",PTC NEWS - Free
 http://103.169.98.53:8000/play/a0t7
-#EXTINF:-1,PTC PUNJABI- Free
+#EXTINF:-1 group-title="Tataplay",PTC PUNJABI- Free
 http://103.169.98.53:8000/play/a0t6
-#EXTINF:-1,PTC Simran- Free
+#EXTINF:-1 group-title="Tataplay",PTC Simran- Free
 http://103.169.98.53:8000/play/a0rt
-#EXTINF:-1,PTC chakde-Free
+#EXTINF:-1 group-title="Tataplay",PTC chakde-Free
 http://103.169.98.53:8000/play/a0t9
-#EXTINF:-1,PTV HOME HD
+#EXTINF:-1 group-title="Tataplay",PTV HOME HD
 http://103.169.98.53:8000/play/a0uj
-#EXTINF:-1,PTV NEWS HD
+#EXTINF:-1 group-title="Tataplay",PTV NEWS HD
 http://103.169.98.53:8000/play/PTVNEWSHD
-#EXTINF:-1,PTV SPORTS HD
+#EXTINF:-1 group-title="Tataplay",PTV SPORTS HD
 http://103.169.98.53:8000/play/a0uk
-#EXTINF:-1,PTV WORLD
+#EXTINF:-1 group-title="Tataplay",PTV WORLD
 http://103.169.98.53:8000/play/a0ul
-#EXTINF:-1,PUBLIC TV
+#EXTINF:-1 group-title="Tataplay",PUBLIC TV
 http://103.169.98.53:8000/play/a0wa
-#EXTINF:-1,Public Movies-Free
+#EXTINF:-1 group-title="Tataplay",Public Movies-Free
 http://103.169.98.53:8000/play/a0ta
-#EXTINF:-1,Punjabi Active-Rs45
+#EXTINF:-1 group-title="Tataplay",Punjabi Active-Rs45
 http://103.169.98.53:8000/play/a0qz
-#EXTINF:-1,QURAN TV
+#EXTINF:-1 group-title="Tataplay",QURAN TV
 http://103.169.98.53:8000/play/a0v4
-#EXTINF:-1,QURAN URDU
+#EXTINF:-1 group-title="Tataplay",QURAN URDU
 http://103.169.98.53:8000/play/QURANURDU
-#EXTINF:-1,ROHI
+#EXTINF:-1 group-title="Tataplay",ROHI
 http://103.169.98.53:8000/play/a0wh
-#EXTINF:-1,ROZE NEWS
+#EXTINF:-1 group-title="Tataplay",ROZE NEWS
 http://103.169.98.53:8000/play/a0wb
-#EXTINF:-1,Raj  TV - Rs 4
+#EXTINF:-1 group-title="Tataplay",Raj  TV - Rs 4
 http://103.169.98.53:8000/play/a0ss
-#EXTINF:-1,Raj MUSIX -Rs 1.40
+#EXTINF:-1 group-title="Tataplay",Raj MUSIX -Rs 1.40
 http://103.169.98.53:8000/play/a0qv
-#EXTINF:-1,Raj NEWS -28p
+#EXTINF:-1 group-title="Tataplay",Raj NEWS -28p
 http://103.169.98.53:8000/play/a0qu
-#EXTINF:-1,RajDigitalPl-Rs1.60
+#EXTINF:-1 group-title="Tataplay",RajDigitalPl-Rs1.60
 http://103.169.98.53:8000/play/a0qa
-#EXTINF:-1,RajMusixKannad-Free
+#EXTINF:-1 group-title="Tataplay",RajMusixKannad-Free
 http://103.169.98.53:8000/play/a0sq
-#EXTINF:-1,RangmanchActiv-Rs66
+#EXTINF:-1 group-title="Tataplay",RangmanchActiv-Rs66
 http://103.169.98.53:8000/play/a0pd
-#EXTINF:-1,SAB TV
+#EXTINF:-1 group-title="Tataplay",SAB TV
 http://103.169.98.53:8000/play/a0v9
-#EXTINF:-1,SAMMA NEWS
+#EXTINF:-1 group-title="Tataplay",SAMMA NEWS
 http://103.169.98.53:8000/play/SAMAA
-#EXTINF:-1,SAUDI QURAN
+#EXTINF:-1 group-title="Tataplay",SAUDI QURAN
 http://103.169.98.53:8000/play/a0va
-#EXTINF:-1,SAUDI SUNNAH HD
+#EXTINF:-1 group-title="Tataplay",SAUDI SUNNAH HD
 http://103.169.98.53:8000/play/a0vb
-#EXTINF:-1,SAUDI TV 1 HD
+#EXTINF:-1 group-title="Tataplay",SAUDI TV 1 HD
 http://103.169.98.53:8000/play/a0vc
-#EXTINF:-1,SHARJAH TV
+#EXTINF:-1 group-title="Tataplay",SHARJAH TV
 http://103.169.98.53:8000/play/a0vd
-#EXTINF:-1,SILVER SCREEN
+#EXTINF:-1 group-title="Tataplay",SILVER SCREEN
 http://103.169.98.53:8000/play/a0ve
-#EXTINF:-1,SONIC NICK SD
+#EXTINF:-1 group-title="Tataplay",SONIC NICK SD
 http://103.169.98.53:8000/play/a09g
-#EXTINF:-1,SONY AATH- Rs 5.50
+#EXTINF:-1 group-title="Tataplay",SONY AATH- Rs 5.50
 http://103.169.98.53:8000/play/a0ow
-#EXTINF:-1,SONY BBC EARTH HD
+#EXTINF:-1 group-title="Tataplay",SONY BBC EARTH HD
 http://103.169.98.53:8000/play/a085
-#EXTINF:-1,SONY MAX 2 SD
+#EXTINF:-1 group-title="Tataplay",SONY MAX 2 SD
 http://103.169.98.53:8000/play/a08l
-#EXTINF:-1,SONY MAX HD
+#EXTINF:-1 group-title="Tataplay",SONY MAX HD
 http://103.169.98.53:8000/play/a08x
-#EXTINF:-1,SONY PAL
+#EXTINF:-1 group-title="Tataplay",SONY PAL
 http://103.169.98.53:8000/play/a07w
-#EXTINF:-1,SONY PIX HD
+#EXTINF:-1 group-title="Tataplay",SONY PIX HD
 http://103.169.98.53:8000/play/a086
-#EXTINF:-1,SONY SAB HD
+#EXTINF:-1 group-title="Tataplay",SONY SAB HD
 http://103.169.98.53:8000/play/a08q
-#EXTINF:-1,SONY SAB SD
+#EXTINF:-1 group-title="Tataplay",SONY SAB SD
 http://103.169.98.53:8000/play/a0sl
-#EXTINF:-1,SONY SET HD
+#EXTINF:-1 group-title="Tataplay",SONY SET HD
 http://103.169.98.53:8000/play/a07r
-#EXTINF:-1,SONY SPORTS 1 HD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 1 HD
 http://103.169.98.53:8000/play/a08u
-#EXTINF:-1,SONY SPORTS 1 SD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 1 SD
 http://103.169.98.53:8000/play/a0or
-#EXTINF:-1,SONY SPORTS 2 HD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 2 HD
 http://103.169.98.53:8000/play/a05g
-#EXTINF:-1,SONY SPORTS 2 SD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 2 SD
 http://103.169.98.53:8000/play/a08a
-#EXTINF:-1,SONY SPORTS 3 HD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 3 HD
 http://103.169.98.53:8000/play/a090
-#EXTINF:-1,SONY SPORTS 3 SD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 3 SD
 http://103.169.98.53:8000/play/a0ot
-#EXTINF:-1,SONY SPORTS 4 SD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 4 SD
 http://103.169.98.53:8000/play/a0pr
-#EXTINF:-1,SONY SPORTS 5 HD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 5 HD
 http://103.169.98.53:8000/play/a08V
-#EXTINF:-1,SONY SPORTS 5 SD
+#EXTINF:-1 group-title="Tataplay",SONY SPORTS 5 SD
 http://103.169.98.53:8000/play/a0ov
-#EXTINF:-1,SPECIAL TV
+#EXTINF:-1 group-title="Tataplay",SPECIAL TV
 http://103.169.98.53:8000/play/a0v8
-#EXTINF:-1,SPORTS 18 1 HD
+#EXTINF:-1 group-title="Tataplay",SPORTS 18 1 HD
 http://103.169.98.53:8000/play/a093
-#EXTINF:-1,STAR BHARAT HD
+#EXTINF:-1 group-title="Tataplay",STAR BHARAT HD
 http://103.169.98.53:8000/play/a080
-#EXTINF:-1,STAR GOLD 2 SD 
+#EXTINF:-1 group-title="Tataplay",STAR GOLD 2 SD 
 http://103.169.98.53:8000/play/a08j
-#EXTINF:-1,STAR GOLD HD 
+#EXTINF:-1 group-title="Tataplay",STAR GOLD HD 
 http://103.169.98.53:8000/play/a082
-#EXTINF:-1,STAR GOLD ROMANCE
+#EXTINF:-1 group-title="Tataplay",STAR GOLD ROMANCE
 http://103.169.98.53:8000/play/a08i
-#EXTINF:-1,STAR GOLD SD
+#EXTINF:-1 group-title="Tataplay",STAR GOLD SD
 http://103.169.98.53:8000/play/a0rq
-#EXTINF:-1,STAR GOLD SELECT HD
+#EXTINF:-1 group-title="Tataplay",STAR GOLD SELECT HD
 http://103.169.98.53:8000/play/a084
-#EXTINF:-1,STAR GOLD THRILLS
+#EXTINF:-1 group-title="Tataplay",STAR GOLD THRILLS
 http://103.169.98.53:8000/play/a08h
-#EXTINF:-1,STAR JALSHA HD-Rs19
+#EXTINF:-1 group-title="Tataplay",STAR JALSHA HD-Rs19
 http://103.169.98.53:8000/play/a0of
-#EXTINF:-1,STAR MAA HD
+#EXTINF:-1 group-title="Tataplay",STAR MAA HD
 http://103.169.98.53:8000/play/a0k9
-#EXTINF:-1,STAR MAA MOVIES HD
+#EXTINF:-1 group-title="Tataplay",STAR MAA MOVIES HD
 http://103.169.98.53:8000/play/SMMHD
-#EXTINF:-1,STAR MOVIES HD
+#EXTINF:-1 group-title="Tataplay",STAR MOVIES HD
 http://103.169.98.53:8000/play/a096
-#EXTINF:-1,STAR MOVIES SELECT HD
+#EXTINF:-1 group-title="Tataplay",STAR MOVIES SELECT HD
 http://103.169.98.53:8000/play/a097
-#EXTINF:-1,STAR PLUS HD
+#EXTINF:-1 group-title="Tataplay",STAR PLUS HD
 http://103.169.98.53:8000/play/a07n
-#EXTINF:-1,STAR PLUS SD
+#EXTINF:-1 group-title="Tataplay",STAR PLUS SD
 http://103.169.98.53:8000/play/a0sg
-#EXTINF:-1,STAR PRAVAH HD
+#EXTINF:-1 group-title="Tataplay",STAR PRAVAH HD
 http://103.169.98.53:8000/play/a074
-#EXTINF:-1,STAR SPORTS 1 HD
+#EXTINF:-1 group-title="Tataplay",STAR SPORTS 1 HD
 http://103.169.98.53:8000/play/a08s
-#EXTINF:-1,STAR SPORTS 1 HD HINDI
+#EXTINF:-1 group-title="Tataplay",STAR SPORTS 1 HD HINDI
 http://103.169.98.53:8000/play/a08w
-#EXTINF:-1,STAR SPORTS 1 SD HINDI
+#EXTINF:-1 group-title="Tataplay",STAR SPORTS 1 SD HINDI
 http://103.169.98.53:8000/play/a0oq
-#EXTINF:-1,STAR SPORTS 2 HD
+#EXTINF:-1 group-title="Tataplay",STAR SPORTS 2 HD
 http://103.169.98.53:8000/play/a08t
-#EXTINF:-1,STAR SPORTS 3
+#EXTINF:-1 group-title="Tataplay",STAR SPORTS 3
 http://103.169.98.53:8000/play/a091
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
+#EXTINF:-1 group-title="Tataplay",STAR SPORTS SELECT 1 HD
 http://103.169.98.53:8000/play/a088
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
+#EXTINF:-1 group-title="Tataplay",STAR SPORTS SELECT 2 HD
 http://103.169.98.53:8000/play/a089
-#EXTINF:-1,STAR UTSAV
+#EXTINF:-1 group-title="Tataplay",STAR UTSAV
 http://103.169.98.53:8000/play/a07v
-#EXTINF:-1,SUCH NEWS
+#EXTINF:-1 group-title="Tataplay",SUCH NEWS
 http://103.169.98.53:8000/play/SUCHNEWS
-#EXTINF:-1,SUDAN TV
+#EXTINF:-1 group-title="Tataplay",SUDAN TV
 http://103.169.98.53:8000/play/a0v7
-#EXTINF:-1,SUN LIFE- Rs 9
+#EXTINF:-1 group-title="Tataplay",SUN LIFE- Rs 9
 http://103.169.98.53:8000/play/a0ke
-#EXTINF:-1,SUN MUSIC
+#EXTINF:-1 group-title="Tataplay",SUN MUSIC
 http://103.169.98.53:8000/play/a0s9
-#EXTINF:-1,SUN MUSIC HD
+#EXTINF:-1 group-title="Tataplay",SUN MUSIC HD
 http://103.169.98.53:8000/play/a071
-#EXTINF:-1,SUN NEWS - Rs 1
+#EXTINF:-1 group-title="Tataplay",SUN NEWS - Rs 1
 http://103.169.98.53:8000/play/a0sa
-#EXTINF:-1,SUN TV HD-Rs 19 
+#EXTINF:-1 group-title="Tataplay",SUN TV HD-Rs 19 
 http://103.169.98.53:8000/play/a06z
-#EXTINF:-1,SURYA COMEDY-Rs 4
+#EXTINF:-1 group-title="Tataplay",SURYA COMEDY-Rs 4
 http://103.169.98.53:8000/play/a0kd
-#EXTINF:-1,SURYA HD- Rs 19
+#EXTINF:-1 group-title="Tataplay",SURYA HD- Rs 19
 http://103.169.98.53:8000/play/a0k6
-#EXTINF:-1,SURYA MUSIC-Rs 4
+#EXTINF:-1 group-title="Tataplay",SURYA MUSIC-Rs 4
 http://103.169.98.53:8000/play/a0qt
-#EXTINF:-1,ShortsTVActive-Rs61
+#EXTINF:-1 group-title="Tataplay",ShortsTVActive-Rs61
 http://103.169.98.53:8000/play/a0rk
-#EXTINF:-1,Star Maa Gold-Rs7
+#EXTINF:-1 group-title="Tataplay",Star Maa Gold-Rs7
 http://103.169.98.53:8000/play/a0qo
-#EXTINF:-1,Star Sports 1-Rs19
+#EXTINF:-1 group-title="Tataplay",Star Sports 1-Rs19
 http://103.169.98.53:8000/play/a0oo
-#EXTINF:-1,Star Sports 2-Rs4
+#EXTINF:-1 group-title="Tataplay",Star Sports 2-Rs4
 http://103.169.98.53:8000/play/a0op
-#EXTINF:-1,StarSuvarnaHD-Rs19
+#EXTINF:-1 group-title="Tataplay",StarSuvarnaHD-Rs19
 http://103.169.98.53:8000/play/a0df
-#EXTINF:-1,StarSuvarnaPlus-Rs5
+#EXTINF:-1 group-title="Tataplay",StarSuvarnaPlus-Rs5
 http://103.169.98.53:8000/play/a0qb
-#EXTINF:-1,Sun Bangla - Free
+#EXTINF:-1 group-title="Tataplay",Sun Bangla - Free
 http://103.169.98.53:8000/play/a0tr
-#EXTINF:-1,Super Hungama- Rs 4
+#EXTINF:-1 group-title="Tataplay",Super Hungama- Rs 4
 http://103.169.98.53:8000/play/a0jj
-#EXTINF:-1,TEN SPORTS FHD
+#EXTINF:-1 group-title="Tataplay",TEN SPORTS FHD
 http://103.169.98.53:8000/play/a0ub
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Tataplay",TLC HD
 http://103.169.98.53:8000/play/a0bd
-#EXTINF:-1,TRT WORLD HD
+#EXTINF:-1 group-title="Tataplay",TRT WORLD HD
 http://103.169.98.53:8000/play/a0um
-#EXTINF:-1,TV ONE
+#EXTINF:-1 group-title="Tataplay",TV ONE
 http://103.169.98.53:8000/play/a0vv
-#EXTINF:-1,ThrillerActive-Rs45
+#EXTINF:-1 group-title="Tataplay",ThrillerActive-Rs45
 http://103.169.98.53:8000/play/a0t3
-#EXTINF:-1,UDAYA HD- Rs 19
+#EXTINF:-1 group-title="Tataplay",UDAYA HD- Rs 19
 http://103.169.98.53:8000/play/a0ka
-#EXTINF:-1,URDU 1
+#EXTINF:-1 group-title="Tataplay",URDU 1
 http://103.169.98.53:8000/play/a0ua
-#EXTINF:-1,VENUS HD
+#EXTINF:-1 group-title="Tataplay",VENUS HD
 http://103.169.98.53:8000/play/a0v6
-#EXTINF:-1,VIJAY HD- Rs 19
+#EXTINF:-1 group-title="Tataplay",VIJAY HD- Rs 19
 http://103.169.98.53:8000/play/a06o
-#EXTINF:-1,VSH NEWS
+#EXTINF:-1 group-title="Tataplay",VSH NEWS
 http://103.169.98.53:8000/play/a0v5
-#EXTINF:-1,Vijay Super HD - Rs 19
+#EXTINF:-1 group-title="Tataplay",Vijay Super HD - Rs 19
 http://103.169.98.53:8000/play/a0kc
-#EXTINF:-1,WASEB
+#EXTINF:-1 group-title="Tataplay",WASEB
 http://103.169.98.53:8000/play/a0vw
-#EXTINF:-1,Women'sActive-Rs45
+#EXTINF:-1 group-title="Tataplay",Women'sActive-Rs45
 http://103.169.98.53:8000/play/a0qg
-#EXTINF:-1,ZEE ANMOL
+#EXTINF:-1 group-title="Tataplay",ZEE ANMOL
 http://103.169.98.53:8000/play/a07x
-#EXTINF:-1,ZEE BANGLA SD
+#EXTINF:-1 group-title="Tataplay",ZEE BANGLA SD
 http://103.169.98.53:8000/play/a0tw
-#EXTINF:-1,ZEE BOLLYWOOD
+#EXTINF:-1 group-title="Tataplay",ZEE BOLLYWOOD
 http://103.169.98.53:8000/play/a0aj
-#EXTINF:-1,ZEE Bangla Cine-Rs10
+#EXTINF:-1 group-title="Tataplay",ZEE Bangla Cine-Rs10
 http://103.169.98.53:8000/play/a0t4
-#EXTINF:-1,ZEE CAFE HD
+#EXTINF:-1 group-title="Tataplay",ZEE CAFE HD
 http://103.169.98.53:8000/play/a094
-#EXTINF:-1,ZEE CINEMA HD
+#EXTINF:-1 group-title="Tataplay",ZEE CINEMA HD
 http://103.169.98.53:8000/play/a07z
-#EXTINF:-1,ZEE CINEMALU-Rs 10
+#EXTINF:-1 group-title="Tataplay",ZEE CINEMALU-Rs 10
 http://103.169.98.53:8000/play/a0s1
-#EXTINF:-1,ZEE CinemaluHD-Rs16 
+#EXTINF:-1 group-title="Tataplay",ZEE CinemaluHD-Rs16 
 http://103.169.98.53:8000/play/a0se
-#EXTINF:-1,ZEE KANNADA HD
+#EXTINF:-1 group-title="Tataplay",ZEE KANNADA HD
 http://103.169.98.53:8000/play/a0ja
-#EXTINF:-1,ZEE KERALAM HD
+#EXTINF:-1 group-title="Tataplay",ZEE KERALAM HD
 http://103.169.98.53:8000/play/a0hk
-#EXTINF:-1,ZEE MARATHI HD-Rs 19
+#EXTINF:-1 group-title="Tataplay",ZEE MARATHI HD-Rs 19
 http://103.169.98.53:8000/play/a46n
-#EXTINF:-1,ZEE Punjabi- Rs 10
+#EXTINF:-1 group-title="Tataplay",ZEE Punjabi- Rs 10
 http://103.169.98.53:8000/play/a0p0
-#EXTINF:-1,ZEE TALKIES HD
+#EXTINF:-1 group-title="Tataplay",ZEE TALKIES HD
 http://103.169.98.53:8000/play/a06l
-#EXTINF:-1,ZEE TAMIL HD
+#EXTINF:-1 group-title="Tataplay",ZEE TAMIL HD
 http://103.169.98.53:8000/play/a0tt
-#EXTINF:-1,ZEE TELUGU HD
+#EXTINF:-1 group-title="Tataplay",ZEE TELUGU HD
 http://103.169.98.53:8000/play/a0sd
-#EXTINF:-1,ZEE TV - Rs 19
+#EXTINF:-1 group-title="Tataplay",ZEE TV - Rs 19
 http://103.169.98.53:8000/play/a0sh
-#EXTINF:-1,ZEE TV HD
+#EXTINF:-1 group-title="Tataplay",ZEE TV HD
 http://103.169.98.53:8000/play/a07o
-#EXTINF:-1,ZING
+#EXTINF:-1 group-title="Tataplay",ZING
 http://103.169.98.53:8000/play/a0pa
-#EXTINF:-1,ZOOM
+#EXTINF:-1 group-title="Tataplay",ZOOM
 http://103.169.98.53:8000/play/a09l
-#EXTINF:-1,Zee24 KALAK-10p
+#EXTINF:-1 group-title="Tataplay",Zee24 KALAK-10p
 http://103.169.98.53:8000/play/a0pf
-#EXTINF:-1,colorMarathiHD-Rs17
+#EXTINF:-1 group-title="Tataplay",colorMarathiHD-Rs17
 http://103.169.98.53:8000/play/a0oj
-#EXTINF:-1,colors - Rs 19
+#EXTINF:-1 group-title="Tataplay",colors - Rs 19
 http://103.169.98.53:8000/play/a0si
-#EXTINF:-1,colors Bangla-Rs 7
+#EXTINF:-1 group-title="Tataplay",colors Bangla-Rs 7
 http://103.169.98.53:8000/play/a0tv
-#EXTINF:-1,colors Gujarati-Rs6
+#EXTINF:-1 group-title="Tataplay",colors Gujarati-Rs6
 http://103.169.98.53:8000/play/a0sm
-#EXTINF:-1,colorsBanglaHD-Rs14
+#EXTINF:-1 group-title="Tataplay",colorsBanglaHD-Rs14
 http://103.169.98.53:8000/play/a0oi
-#EXTINF:-1,colorsKanMovies-Rs3
+#EXTINF:-1 group-title="Tataplay",colorsKanMovies-Rs3
 http://103.169.98.53:8000/play/a0sn
-#EXTINF:-1,iFILE ENGLISH
+#EXTINF:-1 group-title="Tataplay",iFILE ENGLISH
 http://103.169.98.53:8000/play/a0vp
-#EXTINF:-1,mega 24 - Rs 1
+#EXTINF:-1 group-title="Tataplay",mega 24 - Rs 1
 http://103.169.98.53:8000/play/a0ql
