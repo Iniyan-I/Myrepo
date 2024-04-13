@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="ts367" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11429-j9jqu3y0-v1/imageContent-11429-j9jqu3y0-m1.png" group-title="MYTV",FOX Life HD 
-http://103.174.195.4:8000/play/a03i
+http://103.169.98.53:8000/play/a08n
 
 
 #EXTINF:-1 tvg-id="242" group-title="MYTV" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery English HD
