@@ -9,6 +9,10 @@ https://raw.githubusercontent.com/Iniyan-I/Myrepo/main/channels/food_network_hd_
 #EXTINF:-1 tvg-logo="https://te.legra.ph/file/6db24ed6ea9959c51d758.png" tvg-chno="9" group-title="MYTV",TRVL English HD
 https://raw.githubusercontent.com/Iniyan-I/Myrepo/main/channels/trvl_channel_hd_english.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/6db24ed6ea9959c51d758.png" tvg-chno="9" group-title="MYTV",History Tamil HD
+http://tvtalk.cheapgeeky.com/live.php?id=579&key=JITENDRAUNATTI&e=.m3u8
+
 #EXTINF:-1 tvg-id="ts48" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="MYTV", Sony Sab HD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/x-mpegURL
